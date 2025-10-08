@@ -1,4 +1,5 @@
 plugins {
+	hahahaha
     id 'java-library'
 }
 
